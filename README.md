@@ -6,7 +6,7 @@ my journey to learn VIM with my primary code editor VSCode
 ## V I M
 ### shortcuts
 
-### Keys:            Description:
+    Keys:            Description:
 
     :q               quit editing
     :wq              write & quit
@@ -14,7 +14,6 @@ my journey to learn VIM with my primary code editor VSCode
     :q!              quit without saving
     :set number      view line number of the file
     :![terminal cmd] execute terminal command from VIM
-
 
     i                insert mode before cursor
     a                insert mode after cursor
@@ -42,6 +41,7 @@ my journey to learn VIM with my primary code editor VSCode
     $                move cursor to end of the line
     :[any number]    move cursor to line number
 
+    .                do the last command again
     [any number before a cmd] (e.a. 5j)
                      do the command for the number of times
 
@@ -57,7 +57,6 @@ my journey to learn VIM with my primary code editor VSCode
     u                undo
     ctrl + r         redo
 
-    .                do the last command again
 
 
 
