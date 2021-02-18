@@ -23,6 +23,7 @@ my journey to learn VIM with my primary code editor VSCode
     O                insert mode with a new line up
     v                visual mode
     V                visual mode select by line
+    ctrl + v         visual block mode
     esc              normal/command mode
 
     h                move cursor to left
@@ -74,9 +75,11 @@ my journey to learn VIM with my primary code editor VSCode
     ~                swap case of the character
     .                do the last command again
     [number][cmd]    do the command for the number of times
+    >                indent right
+    <                indent left
 
+    /[word]          search for all repeating word
+    n                move cursor to repeating word
 
-
-
-
-
+    q[character][cmd sequence]q        record a macro to the character
+    @[character]     implement macro
