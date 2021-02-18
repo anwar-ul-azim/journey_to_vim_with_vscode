@@ -44,14 +44,13 @@ my journey to learn VIM with my primary code editor VSCode
     $                move cursor to end of the line
     t[character]     move cursor to before the character
     f[character]     move cursor to the character
+    ;                repeating previous command
     %                move cursor between two brackets
     :[any number]    move cursor to line number
-
-    .                do the last command again
-    [any number before a cmd] (e.a. 5j)
-                     do the command for the number of times
+    *                move cursor to repeating word
 
     r                replace a character
+    R                replace multiple characters
     x                delete a character
     dd               delete/cut a line
     dw               delete word
@@ -71,9 +70,10 @@ my journey to learn VIM with my primary code editor VSCode
     u                undo
     ctrl + r         redo
 
-
-
-
+    zz               make cursor position center of the screen
+    ~                swap case of the character
+    .                do the last command again
+    [number][cmd]    do the command for the number of times
 
 
 
