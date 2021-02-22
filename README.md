@@ -120,15 +120,15 @@ my journey to learn VIM with my primary code editor VSCode
 
 ### References:
 
-    [barbarianmeetscoding](https://www.barbarianmeetscoding.com/blog/boost-your-coding-fu-with-vscode-and-vim)
-    ---
+[barbarianmeetscoding](https://www.barbarianmeetscoding.com/blog/boost-your-coding-fu-with-vscode-and-vim)
+---
     
-    [Fireship](https://www.youtube.com/watch?v=-txKSRn0qeA&ab_channel=Fireship)
-    ---
+[Fireship](https://www.youtube.com/watch?v=-txKSRn0qeA&ab_channel=Fireship)
+---
     
-    [BenAwad](https://www.youtube.com/watch?v=IiwGbcd8S7I&ab_channel=BenAwad)
-    ---
+[BenAwad](https://www.youtube.com/watch?v=IiwGbcd8S7I&ab_channel=BenAwad)
+---
     
-    [MissingSemester](https://www.youtube.com/watch?v=a6Q8Na575qc&feature=emb_rel_pause&ab_channel=MissingSemester)
-    ---
+[MissingSemester](https://www.youtube.com/watch?v=a6Q8Na575qc&feature=emb_rel_pause&ab_channel=MissingSemester)
+---
     
