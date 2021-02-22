@@ -118,4 +118,8 @@ my journey to learn VIM with my primary code editor VSCode
     gh               hover over cursor
 
 
-hello world
+### References:
+
+    1. https://www.barbarianmeetscoding.com/blog/boost-your-coding-fu-with-vscode-and-vim
+    2. https://www.youtube.com/watch?v=-txKSRn0qeA&ab_channel=Fireship
+    3. https://www.youtube.com/watch?v=IiwGbcd8S7I&ab_channel=BenAwad
