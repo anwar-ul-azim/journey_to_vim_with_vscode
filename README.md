@@ -21,6 +21,7 @@ my journey to learn VIM with my primary code editor VSCode
     A                insert mode ending of the line
     o                insert mode with a new line down
     O                insert mode with a new line up
+    gi               insert mode from last position
     v                visual mode
     V                visual mode select by line
     ctrl + v         visual block mode
@@ -82,6 +83,7 @@ my journey to learn VIM with my primary code editor VSCode
 
     zz               make cursor position center of the screen
     ~                swap case of the character
+    g~~              swap case of the line
     .                do the last command again
     [number][cmd]    do the command for the number of times
     >                indent right
@@ -90,6 +92,30 @@ my journey to learn VIM with my primary code editor VSCode
     /[word]          search for all repeating word forwards
     ?[word]          search for all repeating word backwards
     n                move cursor to repeating word
+    N                move cursor to repeating word
+    s[char][char]    search for matching character
+    S[char][char]    search for matching character backwards
+
 
     q[character][cmd sequence]q        record a macro to the character
     @[character]     implement macro
+
+    gd               jump to definition
+    gf               jump to file in a import
+
+    :sp              split tab horizontally
+    :vsp             split vertically
+    ctrl + w + hjkl  move cursor to split
+
+    :tabnew [file]   open file in new tab
+    :tabp            go to previous tab
+    :tabn            go to next tab
+
+    ds'              delete surrounding
+    cs'"             change surrounding with "
+
+    gb               add another cursor to the repeating word
+    gh               hover over cursor
+
+
+hello world
