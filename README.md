@@ -113,6 +113,10 @@ my journey to learn VIM with my primary code editor VSCode
 
     ds'              delete surrounding
     cs'"             change surrounding with "
+    di[              delete inside ]
+    ci[              change inside ]
+    da[              delete including ]
+    ca[              change including ]
 
     gb               add another cursor to the repeating word
     gh               hover over cursor
@@ -121,7 +125,7 @@ my journey to learn VIM with my primary code editor VSCode
 ### References:
 
 [barbarianmeetscoding](https://www.barbarianmeetscoding.com/blog/boost-your-coding-fu-with-vscode-and-vim)
- 
+
 [Fireship](https://www.youtube.com/watch?v=-txKSRn0qeA&ab_channel=Fireship)
 
 [BenAwad](https://www.youtube.com/watch?v=IiwGbcd8S7I&ab_channel=BenAwad)
