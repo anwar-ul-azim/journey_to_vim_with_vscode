@@ -2,8 +2,8 @@
 
 my journey to learn VIM with my primary code editor VSCode
 
-
 ## V I M
+
 ### shortcuts
 
     Keys:            Description:
@@ -121,8 +121,34 @@ my journey to learn VIM with my primary code editor VSCode
     gb               add another cursor to the repeating word
     gh               hover over cursor
 
+vim editor shortcuts
+    ctrl + p         fuzzy search
+        [char]       search file name
+        ctrl + f     switch modes
+        ctrl + j/k   navigate files
+        ctrl + t     open file in new tab
+    :Ack [char]      search pattern
+        ?    a quick summary of these keys, repeat to close
+        o    to open (same as Enter)
+        O    to open and close the quick fix window
+        go   to preview file, open but maintain focus on ack.vim results
+        t    to open in new tab
+        T    to open in new tab without moving to it
+        h    to open in horizontal split
+        H    to open in horizontal split, keeping focus on the results
+        v    to open in vertical split
+        gv   to open in vertical split, keeping focus on the results
+        q    to close the quick fix window
+    nerd tree
+        NERDTreeMapActivateNode o  Open selected files.
+        NERDTreeMapOpenSplit    i  Open selected files in horizontal splits.
+        NERDTreeMapOpenVSplit   s  Open selected files in vertical splits.
+        NERDTreeMapOpenInTab    t  Open selected files in tabs.
+            dd  Delete selected files from disk. If open in Vim, they remain open.
+            m  Move the selected files to another directory. If open in Vim, the buffer still points to its old location.
+            c  Copy selected files to another directory.
 
-### References:
+### References
 
 [barbarianmeetscoding](https://www.barbarianmeetscoding.com/blog/boost-your-coding-fu-with-vscode-and-vim)
 
